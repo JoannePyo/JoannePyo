@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm Joanne Pyo</h1>
-<h3 align="center">A passionate frontend developer from NYC</h3>
+<h3 align="center">A passionate full stack(front end and Back end) developer from NYC</h3>
+
+<p><em>Software Enginner at <a href="http://www.unb.br">Queens College, City University of New York</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
+```javascript
+const Joanne = {
+  pronouns: "she" | "her",
+  code: [Python, Javascript, Typescript, HTML, CSS, Java],
+  askMeAbout: ["web dev", "tech", "app dev", "photography", "Health"]
+```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joannepyo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joannepyo/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@j_tube.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@j_tube.v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
